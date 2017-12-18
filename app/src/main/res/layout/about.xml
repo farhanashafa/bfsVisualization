@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#fffbdb"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hosneara Ahmed"
+        android:id="@+id/t1"
+        android:textSize="30dp"
+        android:textColor="#ff64b2"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ifshita Rahman"
+        android:id="@+id/t2"
+        android:textSize="30dp"
+        android:textColor="#c664ff"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dewan Israt Jahan"
+        android:id="@+id/t3"
+        android:textSize="30dp"
+        android:textColor="#35aad9"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Farhana Siddiqua"
+        android:id="@+id/t4"
+        android:textSize="30dp"
+        android:textColor="#ff9924"
+        android:textStyle="bold"
+        />
+</LinearLayout>
